@@ -55,3 +55,5 @@ cathet_ab = (((x2 - x1) ** 2) + ((y2-y1) ** 2)) ** (1 / 2)
 cathet_ac = (((x3 - x1) ** 2) + ((y3-y1) ** 2)) ** (1 / 2)
 area = (cathet_ab * cathet_ac) / 2
 print(area)
+
+
